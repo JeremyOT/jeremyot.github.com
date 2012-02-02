@@ -7,8 +7,8 @@ categories:  toto
 ---
 I've just posted a demo site for Toto at [http://jeremyot.com/Toto](http://jeremyot.com/Toto). It's a simple
 relay-chat application with no backing store, so anything you post will be broadcast to anyone else viewing
-the page and then lost. I built Toto simplify web service development for a few project's that I've been
-working on and it's proving to be quite useful.Check out the full source on [github](https://github.com/JeremyOT/Toto)
+the page and then lost. I built Toto to simplify web service development for a few projects that I've been
+working on and it's proving to be quite useful. Check out the full source on [github](https://github.com/JeremyOT/Toto)
 for more information.
 
 
