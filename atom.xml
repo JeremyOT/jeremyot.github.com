@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jeremy O-T]]></title>
+  <link href="http://JeremyOT.com/atom.xml" rel="self"/>
+  <link href="http://JeremyOT.com/"/>
+  <updated>2012-02-02T00:41:31-08:00</updated>
+  <id>http://JeremyOT.com/</id>
+  <author>
+    <name><![CDATA[Jeremy Olmsted-Thompson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Toto demo]]></title>
+    <link href="http://JeremyOT.com/blog/2012/02/02/toto-demo/"/>
+    <updated>2012-02-02T00:28:00-08:00</updated>
+    <id>http://JeremyOT.com/blog/2012/02/02/toto-demo</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve just posted a demo site for Toto at <a href="http://jeremyot.com/Toto">http://jeremyot.com/Toto</a>. It&#8217;s a simple
+relay-chat application with no backing store, so anything you post will be broadcast to anyone else viewing
+the page and then lost. I built Toto simplify web service development for a few project&#8217;s that I&#8217;ve been
+working on and it&#8217;s proving to be quite useful.Check out the full source on <a href="https://github.com/JeremyOT/Toto">github</a>
+for more information.</p>
+]]></content>
+  </entry>
+  
+</feed>
